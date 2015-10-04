@@ -18,3 +18,12 @@
 - nodepod trae un anuncio para cargar por defecto en mongoose llamar desde
 el navegador http://direcion:PORT/anuncios, ejemplo ** http://localhost:3000/anuncios**
 
+
+** Inicializar datos de la BD con Script de carga ** 
+
+Para inicializar la bd existe la opción borrar los datos de la bd se crea script en ela ruta /lib/inastalBD (// FALTA COMPLETAR CON QUERY)
+
+** Crear Usuario **
+
+con POST http://server:port/users con una herramienta como postman agregaremos usuarios 
+
